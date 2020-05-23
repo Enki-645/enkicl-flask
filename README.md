@@ -1,5 +1,6 @@
 # Enkicl-flask
 Flask restful api enkicl<br>
+个人练习的项目，项目还未完善<br>
 使用Flask后台框架搭建的enki磁力的restful api<br>
 
 
