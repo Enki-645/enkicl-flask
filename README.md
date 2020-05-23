@@ -13,3 +13,4 @@ URL
 
 Get磁力列表：127.0.0.1:5000/api/magnet/<title>/\<ordering>/\<page>\/  <br>
 Get磁力详情：127.0.0.1:5000/api/magnet/\<id>/  <br>
+
